@@ -1,0 +1,16 @@
+[ {
+  "id" : 453,
+  "cakeType" : "vanilie"
+}, {
+  "id" : 454,
+  "cakeType" : "caramel"
+}, {
+  "id" : 455,
+  "cakeType" : "bezea"
+}, {
+  "id" : 456,
+  "cakeType" : "cioco"
+}, {
+  "id" : 457,
+  "cakeType" : "mousse"
+} ]

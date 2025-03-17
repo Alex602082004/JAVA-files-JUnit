@@ -1,0 +1,19 @@
+
+Comanda{id = 106, cakes = [
+Tort{id=101, CakeType=vanilie}, 
+Tort{id=102, CakeType=caramel}, 
+Tort{id=103, CakeType=bezea}, 
+Tort{id=104, CakeType=cioco}, 
+Tort{id=105, CakeType=mousse}], data = Fri Mar 01 03:38:15 EET 2024}
+
+Comanda{id = 107, cakes = [
+Tort{id=101, CakeType=vanilie}, 
+Tort{id=102, CakeType=caramel}, 
+Tort{id=103, CakeType=bezea}], data = Fri May 03 03:38:15 EEST 2024}
+
+Comanda{id = 108, cakes = [
+Tort{id=101, CakeType=vanilie}, 
+Tort{id=102, CakeType=caramel}, 
+Tort{id=103, CakeType=bezea}, 
+Tort{id=104, CakeType=cioco}, 
+Tort{id=105, CakeType=mousse}], data = Sun Mar 03 03:38:15 EET 2024}

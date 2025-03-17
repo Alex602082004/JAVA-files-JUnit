@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repoXmlTort>
+    <torturi>
+        <id>445</id>
+        <cakeType>vanilie</cakeType>
+    </torturi>
+    <torturi>
+        <id>446</id>
+        <cakeType>caramel</cakeType>
+    </torturi>
+    <torturi>
+        <id>447</id>
+        <cakeType>bezea</cakeType>
+    </torturi>
+    <torturi>
+        <id>448</id>
+        <cakeType>cioco</cakeType>
+    </torturi>
+    <torturi>
+        <id>449</id>
+        <cakeType>mousse</cakeType>
+    </torturi>
+    <filePath>C:\Users\alexp\IdeaProjects\a3-Alex602082004\src\Files\tortxml.xml</filePath>
+</repoXmlTort>

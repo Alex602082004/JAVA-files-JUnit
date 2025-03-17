@@ -1,0 +1,6 @@
+
+Tort{id=101, CakeType=vanilie}
+Tort{id=102, CakeType=caramel}
+Tort{id=103, CakeType=bezea}
+Tort{id=104, CakeType=cioco}
+Tort{id=105, CakeType=mousse}
